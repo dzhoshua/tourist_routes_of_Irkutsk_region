@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>п. Черноруд - п. Сарма - п. Курма</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>п. Черноруд - п. Сарма - п. Курма</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Есть замечания (в работе)&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;0&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;Pr&#60;/td&#62;
+
+&#60;td&#62;Есть замечания (в работе)&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;Name_II&#60;/td&#62;
+
+&#60;td&#62;п. Черноруд - п. Сарма - п. Курма&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #LineStyle00</description>
+        <Style>
+          <LineStyle>
+            <color>A60000FF</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <extrude>1</extrude>
+          <coordinates>106.965149136,53.1794101300001,0 106.964913101,53.1789793240001,0 106.963648726,53.1770619490001,0 106.962747504,53.1759494990001,0 106.960413973,53.1734080310001,0 106.958472054,53.1712986730001,0 106.957376848,53.1699609810001,0 106.957076441,53.1695107860001,0 106.955982099,53.167581323,0 106.955467115,53.1667387640001,0 106.955136376,53.166324602,0 106.954707223,53.1659708480001,0 106.954042035,53.165591363,0 106.950083094,53.1638032340001,0 106.949042397,53.1634108650001,0 106.948151904,53.1631471390001,0 106.947400885,53.163076383,0 106.946274358,53.1630635180001,0 106.94247635,53.16323076,0 106.941187298,53.163281655,0 106.94024316,53.163255926,0 106.939331209,53.163172306,0 106.938558733,53.163043658,0 106.937303459,53.16267058,0 106.931552803,53.1605285300001,0 106.926391952,53.158509242,0 106.920083396,53.1559809810001,0 106.917607943,53.1550719830001,0 106.91634194,53.1546409320001,0 106.915687481,53.1544543560001,0 106.907233442,53.1527108860001,0 106.906654085,53.1525757740001,0 106.906267847,53.1524084910001,0 106.905913795,53.1521768680001,0 106.905581201,53.1518744690001,0 106.904819454,53.1509479570001,0 106.90274301,53.1488802800001,0 106.898803437,53.144800376,0 106.898234809,53.1442340840001,0 106.897655452,53.1438544060001,0 106.896850789,53.1434618550001,0 106.889046871,53.1399656550001,0 106.884111606,53.1377645470001,0 106.880528175,53.1361168600001,0 106.87790937,53.1347004610001,0 106.87385387,53.1323832180001,0 106.870635219,53.1304907100001,0 106.86943359,53.1295637370001,0 106.866794296,53.1270788360001,0 106.86574287,53.1260874100001,0 106.864948936,53.1255852510001,0 106.863446899,53.1250058290001,0 106.858661838,53.1232675160001,0 106.855164238,53.1220442170001,0 106.852117248,53.1205762120001,0 106.847869715,53.1182974930001,0 106.844897827,53.116700574,0 106.84108909,53.1142471270001,0 106.837646546,53.112028879,0 106.837035003,53.111597396,0 106.836605849,53.1111659090001,0 106.836285629,53.1106640630001,0 106.836103239,53.1100908800001,0 106.835674086,53.1048352750001,0 106.835492934,53.103774435,0 106.83497795,53.103123865,0 106.834162558,53.1026600860001,0 106.831834401,53.101661655,0 106.827102984,53.0995165620001,0 106.825742038,53.0988919440001,0 106.824443849,53.0984281200001,0 106.822952541,53.0979707320001,0 106.819712433,53.0972234400001,0 106.816590341,53.0964503660001,0 106.81402615,53.095922091,0 106.81079677,53.0954066940001,0 106.805528911,53.0946271450001,0 106.803726467,53.094317898,0 106.802278074,53.0939635510001,0 106.800711664,53.0934545730001,0 106.799542221,53.0929906900001,0 106.79835132,53.0924301570001,0 106.79742864,53.0919082760001,0 106.796129625,53.091059589,0 106.792268972,53.088023928,0 106.791571598,53.0874697750001,0 106.7910888,53.0869736080001,0 106.789812069,53.0853819700001,0 106.788900118,53.0841124830001,0 106.788653354,53.083712942,0 106.788567524,53.083384284,0 106.788588981,53.0829782910001,0 106.789028864,53.0813993940001,0 106.789973001,53.078628129,0 106.790209036,53.0779515930001,0 106.790557723,53.077062159,0 106.790745477,53.076343508,0 106.7908117,53.0757404840001,0 106.790838523,53.0753956510001,0 106.790902896,53.0751829500001,0 106.791106743,53.0749541330001,0 106.791466159,53.074718869,0 106.791916771,53.0745319470001,0 106.79210989,53.074415925,0 106.79219572,53.074267675,0 106.792174263,53.0740420760001,0 106.792034788,53.0737906940001,0 106.791829151,53.0735346020001,0 106.789490265,53.0716459490001,0 106.789340061,53.0714783510001,0 106.789264959,53.0713171990001,0 106.789148399,53.070724242,0 106.789126941,53.0704406080001,0 106.789116213,53.069499448,0 106.789084026,53.0692415920001,0 106.789008924,53.0689901810001,0 106.788247998,53.067733649,0 106.788054879,53.0675144630001,0 106.78786176,53.067417762,0 106.78758281,53.067333955,0 106.784975703,53.0667988760001,0 106.784407075,53.0666957270001,0 106.783881362,53.0665474510001,0 106.783419946,53.0663455790001,0 106.781692603,53.0652044720001,0 106.781274179,53.0648627780001,0 106.780995229,53.0644759520001,0 106.780805283,53.064031114,0 106.779968434,53.0615230820001,0 106.779582196,53.0607816050001,0 106.778938466,53.06008525,0 106.778209733,53.0595902030001,0 106.777265596,53.059132403,0 106.776246356,53.0588164530001,0 106.775119828,53.0585714300001,0 106.774282979,53.058487605,0 106.773435401,53.0584618130001,0 106.770088004,53.0584747090001,0 106.766043233,53.058455365,0 106.765088367,53.0583973330001,0 106.764112043,53.0581780990001,0 106.763328838,53.0579459680001,0 106.762717294,53.057630009,0 106.761451291,53.056811086,0 106.760560798,53.0561404600001,0 106.759412812,53.0550313250001,0 106.758168267,53.0535674820001,0 106.757256316,53.052574361,0 106.756430196,53.0519036690001,0 106.755495589,53.0513347550001,0 106.75437979,53.050831722,0 106.752663176,53.0502641910001,0 106.750667613,53.0496966530001,0 106.748950999,53.049064613,0 106.748328727,53.0487421400001,0 106.747427504,53.0480713890001,0 106.746397536,53.0471297390001,0 106.744638007,53.045504378,0 106.742630525,53.0436961810001,0 106.741789206,53.0428440700001,0 106.741327866,53.042250632,0 106.740587576,53.041599131,0 106.739579066,53.0408637620001,0 106.738055571,53.0399155040001,0 106.737100704,53.0392381650001,0 106.735952719,53.038605971,0 106.734504326,53.037825393,0 106.733839138,53.037502836,0 106.73308812,53.0370899600001,0 106.73206888,53.0364448320001,0 106.731564625,53.0360254940001,0 106.730910166,53.0352126120001,0 106.729933842,53.0336835780001,0 106.72829233,53.0309931200001,0 106.7276486,53.029980122,0 106.727251633,53.02923165,0 106.727114338,53.0285879190001,0 106.727125067,53.0279168540001,0 106.727350372,53.0271618930001,0 106.72773661,53.0264843530001,0 106.72838034,53.0257938970001,0 106.72921719,53.025155053,0 106.731953043,53.0234127050001,0 106.733573097,53.0222123790001,0 106.734731811,53.0213734220001,0 106.73538627,53.0207409670001,0 106.735922712,53.020011696,0 106.736652273,53.018940355,0 106.737027782,53.0185466620001,0 106.737446207,53.0182885020001,0 106.737993377,53.01809488,0 106.738454717,53.0178754410001,0 106.739946026,53.0167330500001,0 106.742166895,53.014983907,0 106.742510217,53.0148160890001,0 106.745975632,53.0143578130001,0 106.746254581,53.0142803570001,0 106.746458429,53.0141448090001,0 106.74654426,53.014002807,0 106.746587175,53.013815621,0 106.74654426,53.013467065,0 106.746415514,53.013086232,0 106.746351141,53.0127247610001,0 106.746372598,53.0122212780001,0 106.746657406,53.010827551,0 106.746721779,53.010078746,0 106.746668135,53.0092718300001,0 106.746464287,53.00847781,0 106.746131693,53.0080452890001,0 106.745455095,53.0075392360001,0 106.744746992,53.0068936660001,0 106.744360754,53.006286822,0 106.744328567,53.0057638960001,0 106.744520483,53.0051511170001,0 106.744971094,53.0044796870001,0 106.745582638,53.0038534400001,0 106.746221003,53.003427329,0 106.746660886,53.0032207280001,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Стоянка</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;0&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>106.749169443615,53.0212666671231,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Стоянка</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;1&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>106.778899989943,53.0511261798295,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Стоянка</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;2&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>106.81666549042,53.0893911898517,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Стоянка</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;3&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>106.932231090193,53.1554501901743,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Стоянка</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;4&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>106.956607010106,53.1678522000192,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Стоянка</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;5&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Стоянка&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>106.81297993018,53.0673953796932,0 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

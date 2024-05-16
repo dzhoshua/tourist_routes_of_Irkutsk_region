@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Сарайский пляж</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>Сарайский пляж</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Без замечаний&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;0&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;Pr&#60;/td&#62;
+
+&#60;td&#62;Без замечаний&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;Name_II&#60;/td&#62;
+
+&#60;td&#62;Сарайский пляж&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #LineStyle00</description>
+        <Style>
+          <LineStyle>
+            <color>A60000FF</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <extrude>1</extrude>
+            <coordinates>107.354889107,53.2005708870001,0 107.354693306,53.2008456290001,0 107.354618204,53.2009420290001,0 107.354580653,53.2010191490001,0 107.354548467,53.2011396490001,0 107.354481412,53.2014433080001,0 107.354435814,53.2017421440001,0 107.35440631,53.2021807550001,0 107.354390216,53.2023237440001,0 107.354392899,53.2024747660001,0 107.354433062,53.2025995950001,0 107.354532373,53.2027478900001,0 107.354704035,53.2029117630001,0 107.354956163,53.203133473,0 107.355369223,53.203409805,0 107.355581117,53.203544757,0 107.35567515,53.2035796820001,0 107.355787647,53.2036170530001,0 107.355862749,53.2036523980001,0 107.355916393,53.2036925620001,0 107.356093419,53.2038676780001,0 107.356149746,53.2039014150001,0 107.356240941,53.203923907,0 107.35654403,53.2039688910001,0 107.356890035,53.2040138740001,0 107.357310457,53.2040798570001,0 107.357431841,53.2041215130001,0 107.357595456,53.2042130870001,0 107.357901228,53.20442997,0 107.358424259,53.2047400320001,0 107.358873965,53.2049931090001,0 107.35915382,53.2051272030001,0 107.359422041,53.2052187740001,0 107.359840465,53.2053135580001,0 107.360228634,53.2053914890001,0 107.360476149,53.205461357,0 107.36059953,53.2055352560001,0 107.360639763,53.2055770250001,0 107.360634399,53.2055979090001,0 107.360589,53.2056360000001,0 107.36057539,53.2056557430001,0 107.360309852,53.2059834670001,0 </coordinates>
+          </LineString>
+          <LineString>
+            <extrude>1</extrude>
+            <coordinates>107.358873965,53.2049931090001,0 107.358770264,53.2050822210001,0 107.358641518,53.2052043160001,0 107.358553005,53.2053183780001,0 107.358507407,53.2054131620001,0 107.35848595,53.205527223,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>Туалеты</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Туалеты&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;0&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Туалеты&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>107.355389999949,53.2003499998528,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Смотровая</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Смотровая&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;1&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Смотровая&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>107.354930000319,53.2005199995985,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мусорные</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Мусорные&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;2&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Мусорные&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>107.354959999904,53.2003899998987,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мусорные</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Мусорные&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;3&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Мусорные&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>107.354699999606,53.2005500000826,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Пикниковая</name>
+        <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Пикниковая&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;4&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Пикниковая&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+        <Style>
+          <LabelStyle>
+            <color>FFFF00FF</color>
+            <scale>1.09090909090909</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.3125</scale>
+            <Icon>
+              <href>files/parks.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>107.354827358896,53.2005505081996,0 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

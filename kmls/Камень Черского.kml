@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Новая категория</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Folder>
+        <name>Новая категория</name>
+        <open>1</open>
+        <Style>
+          <ListStyle>
+            <listItemType>check</listItemType>
+            <bgColor>00ffffff</bgColor>
+          </ListStyle>
+        </Style>
+        <Folder>
+          <name>Камень Черского</name>
+          <open>1</open>
+          <Style>
+            <ListStyle>
+              <listItemType>check</listItemType>
+              <bgColor>00ffffff</bgColor>
+            </ListStyle>
+          </Style>
+          <Placemark>
+            <name>Камень Черского</name>
+            <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Без замечаний&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;0&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;Pr&#60;/td&#62;
+
+&#60;td&#62;Без замечаний&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;Name_II&#60;/td&#62;
+
+&#60;td&#62;Камень Черского&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #LineStyle00</description>
+            <Style>
+              <LineStyle>
+                <color>A60000FF</color>
+                <width>2</width>
+              </LineStyle>
+            </Style>
+            <LineString>
+              <extrude>1</extrude>
+              <coordinates>104.844550006092,51.8738510180265,0 104.844503989443,51.8742033932358,0 104.844348337501,51.8745410162956,0 104.844161085784,51.8748016096652,0 104.843993280083,51.875179130584,0 104.843608550727,51.8756358914995,0 104.843259528279,51.8759977910668,0 104.842885360122,51.8763328157365,0 104.84226308763,51.8766481429338,0 104.841752462089,51.8768909626101,0 104.841462783515,51.8770569746704,0 104.840912427753,51.8771571759135,0 104.840586539358,51.8772746901959,0 104.840364251286,51.8774929549545,0 104.840248329565,51.8775376304984,0 104.840058814734,51.8777186796069,0 104.839773327112,51.8780343420804,0 104.839703086764,51.8781806901097,0 104.839671235532,51.8783383537084,0 104.839656483382,51.8784370087087,0 104.839526228607,51.8785776164744,0 104.839376024902,51.8784746925685,0 104.839292867638,51.8784118089721,0 104.838839583099,51.878219041842,0 104.838652331382,51.878147078678,0 104.838480167091,51.8780563542553,0 104.838344547898,51.8779816199094,0 104.838169030845,51.8778936660769,0 104.838056378066,51.8778206222126,0 104.837981276214,51.877744258045,0 104.837841801345,51.8776479726044,0 104.837281219661,51.8773795478046,0 104.837201172486,51.8772999197245,0 104.837176864967,51.8772240635008,0 104.837125232443,51.8771880213171,0 104.83698617667,51.8771881237624,0 </coordinates>
+            </LineString>
+          </Placemark>
+          <Placemark>
+            <name>Смотровая</name>
+            <description>&#60;html xmlns:fo=&#34;http://www.w3.org/1999/XSL/Format&#34; xmlns:msxsl=&#34;urn:schemas-microsoft-com:xslt&#34;&#62;
+
+&#60;head&#62;
+
+&#60;META http-equiv=&#34;Content-Type&#34; content=&#34;text/html&#34;&#62;
+
+&#60;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=UTF-8&#34;&#62;
+
+&#60;/head&#62;
+
+&#60;body style=&#34;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&#34;&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr style=&#34;text-align:center;font-weight:bold;background:#9CBCE2&#34;&#62;
+
+&#60;td&#62;Смотровая&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;
+
+&#60;table style=&#34;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&#34;&#62;
+
+&#60;tr&#62;
+
+&#60;td&#62;FID&#60;/td&#62;
+
+&#60;td&#62;0&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;tr bgcolor=&#34;#D4E4F3&#34;&#62;
+
+&#60;td&#62;inf&#60;/td&#62;
+
+&#60;td&#62;Смотровая&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/td&#62;
+
+&#60;/tr&#62;
+
+&#60;/table&#62;
+
+&#60;/body&#62;
+
+&#60;/html&#62;
+
+&#60;br&#62;styleUrl: #IconStyle00</description>
+            <Style>
+              <LabelStyle>
+                <color>FFFF00FF</color>
+                <scale>1.72727272727273</scale>
+              </LabelStyle>
+              <IconStyle>
+                <scale>0.3125</scale>
+                <Icon>
+                  <href>files/parks.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+              </IconStyle>
+            </Style>
+            <Point>
+              <extrude>1</extrude>
+              <coordinates>104.837500000125,51.8775200000482,0 </coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
