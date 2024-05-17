@@ -1,0 +1,22 @@
+import json
+import pandas as pd
+
+with open('/content/Optimal_routes.geojson', 'r') as openfile:
+
+    # Reading from json file
+    json_object = json.load(openfile)
+print(len(json_object.keys())
+
+df_coords = pd.read_csv('WayPoint_coords.csv')
+df_ways = pd.DataFrame({'Наименование маршрута':[],'lat':[],'lon':[],'city':[]})
+
+for i, way_name in enumerate(json_object.keys()):
+  data = json_object[way_name]['features'][0]['geometry']['coordinates']
+  for j in range(len(data)):
+    lat = data[j][1]
+    lon = data[j][0]
+    city = df_coords[df_coords['Наименование маршрута']==way_name]['city']
+    city = list(city)[0]
+    df_ways.loc[len(df_ways.index)] = [way_name, lat, lon, city]
+
+df_ways.to_csv('Optimal_routes.csv', index=False)
